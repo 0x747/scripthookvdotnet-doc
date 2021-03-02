@@ -1,2 +1,6 @@
 _site
 obj
+scripting_v2/*.yml
+scripting_v2/.manifest
+scripting_v3/*.yml
+scripting_v3/.manifest
